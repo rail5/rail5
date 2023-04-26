@@ -1,1 +1,1 @@
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rail5&langs_count=10&title_color=C14A37&text_color=FFB26B&icon_color=0891b2&bg_color=272822&hide_border=false&locale=en&custom_title=Top%20%Languages)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rail5&langs_count=10&layout=compact&title_color=C14A37&text_color=FFB26B&icon_color=0891b2&bg_color=272822&hide_border=false&locale=en)
